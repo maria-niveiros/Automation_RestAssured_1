@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce156098-026f-4796-a435-220164ec02b3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GxIrsoBtogA9prRlrDmWhzLSKG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/maria/Documents/PROYECTO 2/RAMA DEV/grupo-09&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maria\Documents\PROYECTO 2\grupo-09\testing\RestAssuredTests\src\test\java\Model" />
+      <recent name="C:\Users\maria\Documents\PROYECTO 2\grupo-09\testing\RestAssuredTests\src\test\java\Data\Factory" />
+      <recent name="C:\Users\maria\Documents\PROYECTO 2\grupo-09\testing\RestAssuredTests\src\test\java" />
+      <recent name="C:\Users\maria\Documents\PROYECTO 2\grupo-09\testing\RestAssuredTests\src\test\java\Data" />
+      <recent name="C:\Users\maria\Documents\PROYECTO 2\grupo-09\testing\RestAssuredTests\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maria\Documents\PROYECTO 2\grupo-09\testing\RestAssuredTests\src\test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.DTransactionsTests.getTransferenceResponseNotNullValues">
+    <configuration name="DTransactionsTests.createTransferenceNullAmount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.DTransactionsTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.DTransactionsTests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.DTransactionsTests.DTransactionsTests" />
+      <option name="METHOD_NAME" value="createTransferenceNullAmount" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DTransactionsTests.createTransferenceNullDestinyAccount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.DTransactionsTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.DTransactionsTests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.DTransactionsTests.DTransactionsTests" />
+      <option name="METHOD_NAME" value="createTransferenceNullDestinyAccount" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DTransactionsTests.createTransferenceNullValues" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.DTransactionsTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.DTransactionsTests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.DTransactionsTests.DTransactionsTests" />
+      <option name="METHOD_NAME" value="createTransferenceNullValues" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DTransactionsTests.createTransferenceResponse" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.DTransactionsTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.DTransactionsTests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.DTransactionsTests.DTransactionsTests" />
+      <option name="METHOD_NAME" value="createTransferenceResponse" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DTransactionsTests.getTransferenceResponseNotNullValues" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.DTransactionsTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.DTransactionsTests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.DTransactionsTests.DTransactionsTests" />
+      <option name="METHOD_NAME" value="getTransferenceResponseNotNullValues" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DTransactionsTests.getTransferenceResponseNotNullValues" />
+        <item itemvalue="TestNG.DTransactionsTests.createTransferenceResponse" />
+        <item itemvalue="TestNG.DTransactionsTests.createTransferenceNullAmount" />
+        <item itemvalue="TestNG.DTransactionsTests.createTransferenceNullDestinyAccount" />
+        <item itemvalue="TestNG.DTransactionsTests.createTransferenceNullValues" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce156098-026f-4796-a435-220164ec02b3" name="Changes" comment="" />
+      <created>1667324011643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667324011643</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Tests/AUserTests/BLoginTests.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Tests/AUserTests/BUserTests.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Tests/AABase/BaseTest.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Tests/AABase/BaseTest.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Tests/AABase/BaseTest.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Tests/BCardsTests/DCardTests.java</url>
+          <line>154</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Tests/BCardsTests/DCardTests.java</url>
+          <line>152</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RestAssuredTests$ARegisterTests_registerOkValidateResponse.ic" NAME="ARegisterTests.registerOkValidateResponse Coverage Results" MODIFIED="1669932356693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
